@@ -156,3 +156,6 @@ cython_debug/
 
 # remove AOC input
 *.txt
+
+# VS Code
+.vscode/
